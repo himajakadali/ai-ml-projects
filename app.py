@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as numpy
-from sklearn.model_selection import train_train_split
+from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LogisticRegression
 import streamlit as st
 
